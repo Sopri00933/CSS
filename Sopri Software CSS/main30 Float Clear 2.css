@@ -1,0 +1,32 @@
+div.sol_sutun {
+    background-color:turquoise;
+	height:200px;
+	width:200px;
+	text-align:center;
+	margin:10px;
+	float:left;
+}
+div.orta_sutun {
+    background-color:red;
+	height:200px;
+	width:200px;
+	text-align:center;
+	margin:10px;
+	float:left;
+}
+div.sag_sutun {
+    background-color:blue;
+	height:200px;
+	width:200px;
+	text-align:center;
+	margin:10px;
+	float:left;
+}
+div.footer { 
+    height:200px;
+	width:1000px;
+	background-color:yellow;
+	text-align:center;
+	margin:10px;
+	clear:both;
+}

@@ -1,0 +1,36 @@
+.kose1 {
+   border-radius:25px;
+   background:#ff6666;
+   padding:20px;
+   width:200px;
+   height:100px;
+}
+.kose2 {
+   border-top-left-radius:50px;
+   background:#ff6666;
+   padding:20px;
+   width:200px;
+   height:100px;
+}
+.kose3 {
+   border-radius:50px 30px 15px 75px;
+   background:#ff6666;
+   padding:20px;
+   width:200px;
+   height:100px;
+}
+.kose4 {
+   border-radius:25px;
+   border: solid 10px;
+   border-color:#ff6666;
+   padding:20px;
+   width:200px;
+   height:100px;
+}
+.kose5 {
+   border-radius:25px;
+   background-image:url(images/arka.jpg);
+   padding:20px;
+   width:200px;
+   height:100px;
+}

@@ -1,0 +1,12 @@
+p:first-child {
+    color:red;
+}
+p:last-child {
+    color:red;
+}
+p:before {
+    content:url(images/programlama_dilleri.jpg)
+}
+p:after {
+    content:"------------>";
+}

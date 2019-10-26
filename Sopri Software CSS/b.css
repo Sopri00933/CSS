@@ -1,0 +1,35 @@
+.header {
+  padding: 320px;
+  text-align: center;
+  background: blue;
+  font-size: 30px;
+  margin: 0px 0px -50px 0px;
+}
+
+header {background-color:#446785;}
+header h1{color:#446785; float:right;}
+div#sayfa{width:100%; height:250px; background:#446785;}
+footer{background-color:#446785; height:450px; clear:both;}
+
+article { 
+  background-color:yellow;
+  display: block;
+  height:800px;
+  margin: 0px 250px -2000px 250px;
+}
+
+aside#solmenu{
+    float:right;
+    background-color:red;
+    color:#5a506e;
+    width:250px;
+	height:1500px;
+    }
+	
+nav {  
+    float:left;
+    background-color:gray;
+    color:#903; 
+    width:250px;  
+    height:1500px;  
+}  	

@@ -1,0 +1,23 @@
+p {
+   font-size:20px;
+}
+p:nth-child(3 even) {
+    background-color:grey;
+	color:magenta;
+}
+p:nth-child(odd) {
+	background-color:grey;
+	color:magenta;
+}	
+p:nth-child(4n) {
+	background-color:grey;
+	color:magenta;
+}	
+p:nth-child(3n+5) {
+	background-color:grey;
+	color:magenta;
+}	
+p:nth-child(n+7) {
+	background-color:grey;
+	color:magenta;
+}	

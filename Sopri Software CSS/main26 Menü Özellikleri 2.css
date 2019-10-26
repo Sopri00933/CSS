@@ -1,0 +1,20 @@
+ul {
+	background:red;
+	padding:20px;
+    list-style-image:url(images/programlama_dilleri.jpg);
+	margin-left:100px;
+	list-style-position:inside;
+}
+ol {
+	background:blue;
+	padding:20px;
+}	
+ul li {
+	background:green;
+	padding:5px;
+	margin-left:35px;
+}	
+ol li {
+	background:#cce5ff;
+	margin:5px;
+}	
